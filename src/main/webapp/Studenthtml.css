@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+body{
+		background:url(https://thumbs.dreamstime.com/b/marble-tile-scratchs-2631709.jpg);
+	justify-content:center;
+	align-items:center;
+	display: flex;
+    font-family:sans-serif;
+     text-align: center;
+}
+.container{
+	 position: relative;
+    margin-top: 100px;
+    width: 400px;
+    height:auto;
+    background:#fff;
+    border-radius: 5px;
+    text-align:center;
+}
+.lablel{
+	  padding: 20px 130px;
+    font-size: 30px;
+    font-weight: bold;
+    color:#009999;
+}
+.log_form input{
+    height: 30px;
+    width: 300px;
+    padding:0 10px;
+    font-size: 15px;
+    outline: none;
+    border: 2px solid silver;
+    border-radius:5px;
+    transition:.10s;
+}
+button{
+	margin : 35px 0 30px 0;
+    height: 35px;
+    width: 100px;
+    font-size: 15px;
+    color:white;
+    outline:none;
+    cursor: pointer;
+    font-weight: bold;
+    background: #1A237E;
+    border-radius: 3px;
+    border: 1px solid #3949aB;
+    transition: .5s;
+}
+#in{
+	margin : 35px 0 30px 0;
+    height: 35px;
+    width: 100px;
+    font-size: 15px;
+    color:white;
+    outline:none;
+    cursor: pointer;
+    font-weight: bold;
+    background: #1A237E;
+    border-radius: 3px;
+    border: 1px solid #3949aB;
+    transition: .5s;
+}
